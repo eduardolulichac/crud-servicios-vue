@@ -14,7 +14,7 @@ npm install
 ```
 npm run serve
 ```
-### Test in the nex port:
+### In your Browaer, copy the next port:
 ```
 http://localhost:8080
 ```
