@@ -1,5 +1,10 @@
 # crud-servicios-vue
 
+## Prerequisites
+```
+node updated version, preferably v10.15.0
+sass  
+```
 ## Project setup
 ```
 npm install
@@ -8,6 +13,10 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+### Test in the nex port:
+```
+http://localhost:8080
 ```
 
 ### Compiles and minifies for production
