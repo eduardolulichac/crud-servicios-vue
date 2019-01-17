@@ -14,7 +14,7 @@ npm install
 ```
 npm run serve
 ```
-### In your Browaer, copy the next port:
+### In your browser, copy the next port:
 ```
 http://localhost:8080
 ```
