@@ -1,10 +1,5 @@
-# crud-servicios-vue
+# hello-world
 
-## Prerequisites
-```
-node updated version, preferably v10.15.0
-sass  
-```
 ## Project setup
 ```
 npm install
@@ -14,19 +9,10 @@ npm install
 ```
 npm run serve
 ```
-### In your browser, copy the next port:
-```
-http://localhost:8080
-```
 
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files

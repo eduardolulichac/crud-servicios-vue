@@ -1,7 +1,7 @@
 <template>
-  <router-view/>
+  <router-view />
 </template>
 
 <style lang="scss">
-  @import "./sass/main";
+@import "./sass/main";
 </style>
